@@ -1,8 +1,8 @@
 bem -vidos
 olá
 ***
-esse é meu perfil 
-sou  maria eduada
+Esse é meu perfil 
+sou  maria eduarda
 estudante de PENSAMENTO Computacionall
 corinthians  no peito e no sangue
 
